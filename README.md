@@ -4,7 +4,7 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=aki366&left_color=gray&right_color=blue)
 
 ## Skill
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,html,css,jest,react,nextjs,vercel,netlify,figma,vscode" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,vscode" />
 
 [More](https://www.notion.so/aki366/b4e30e56f0684dc7833c2e03f85ea529)
 
