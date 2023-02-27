@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Skill
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=git,github,html,css,vscode,ruby,rails,mysql,docker,aws,nginx" />
 
