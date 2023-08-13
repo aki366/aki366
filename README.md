@@ -13,8 +13,6 @@
 
 ## personal development
 - [caian](https://github.com/aki366/caian-app#readme)
-  - [caian-app](https://github.com/aki366/caian-app#readme)
-  - [caian-web-front](https://github.com/aki366/caian-web-front#readme)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aki366&theme=vue)
 
