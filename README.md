@@ -14,7 +14,7 @@
 | Development Environment | Vscode, Docker, Docker Desktop, colima |
 
 ## personal development
-### [caian](https://github.com/aki366/caian-app#readme) : Monorepo
+### [Caian](https://github.com/aki366/caian-app#readme) : Monorepo
   - Front-end: React
   - Back-end: Rails
 
