@@ -1,18 +1,22 @@
-## Skill
+## Profile
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=figma,react,javascript,html,css,ruby,rails,redia,mysql,aws,nginx,puma,jest,rspec,githubactions,git,github,vscode,docker" />
+
 | Category | Technology |
 | --- | --- |
-| Design | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=figma" /> |
-| Front-end | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,javascript,html,css," /> |
-| Back-end | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ruby,rails,redis" /> |
-| Database | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=mysql" /> |
-| Infrastructure | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=aws,nginx,puma" /> |
-| Testing / Linting Tools | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=jest,rspec" /> |
-| CI/CD | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=githubactions" /> |
-| Version Control / Hosting & Collaboration | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=git,github" /> |
-| Development Environment | <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=vscode,docker" /> |
+| Design | figma |
+| Front-end | React, JavaScript, HTML, CSS |
+| Back-end | Ruby, Rails |
+| Database | MySQL |
+| Infrastructure | AWS ( Route 53 / VPC / ALB / ECR / ECS (Fargate) / RDS /S3 ), Nginx, Puma |
+| Testing / Linting Tools | RSpec, Jest |
+| CI/CD | GitHub Actions |
+| Version Control / Hosting & Collaboration | Git, GitHub |
+| Development Environment | Vscode, Docker, Docker Desktop, colima |
 
 ## personal development
-- [caian](https://github.com/aki366/caian-app#readme)
+### [caian](https://github.com/aki366/caian-app#readme) : Monorepo
+  - Front-end: React
+  - Back-end: Rails
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aki366&theme=vue)
 
