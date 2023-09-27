@@ -12,6 +12,7 @@
 | CI/CD | GitHub Actions |
 | Version Control / Hosting & Collaboration | Git, GitHub |
 | Development Environment | Vscode, Docker, Docker Desktop, colima |
+| Monitoring Tools　| Datadog, BigQuery, Sentry, Redash |
 
 ## personal development
 ### [Caian](https://github.com/aki366/caian-app#readme) : Monorepo
