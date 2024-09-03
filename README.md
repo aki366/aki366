@@ -1,13 +1,14 @@
 ## Profile
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=figma,react,javascript,html,css,ruby,rails,redia,mysql,aws,nginx,puma,jest,rspec,githubactions,git,github,vscode,docker" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=figma,javascript,html,css,ruby,rails,rspec,redia,mysql,dify,k8s,argo,datadog,aws,terraform,githubactions,git,github,vscode,docker" />
 
 | Category | Technology |
 | --- | --- |
 | Design | figma |
-| Front-end | React, JavaScript, HTML, CSS |
+| Front-end | HTML, CSS, JavaScript |
 | Back-end | Ruby, Rails |
-| Database | MySQL |
-| Infrastructure | AWS ( Route 53 / VPC / ALB / ECR / ECS (Fargate) / RDS /S3 ), Nginx, Puma |
+| Database | MySQL, PostgreSQL |
+| Infrastructure | k8s, ArgoCD, ArgoWorkflow, AWS, Terrform, Datagog |
+| LLM | Dify |
 | Testing / Linting Tools | RSpec, Jest |
 | CI/CD | GitHub Actions |
 | Version Control / Hosting & Collaboration | Git, GitHub |
