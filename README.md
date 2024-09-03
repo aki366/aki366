@@ -9,7 +9,7 @@
 | Database | MySQL, PostgreSQL |
 | Infrastructure | k8s, ArgoCD, ArgoWorkflow, AWS, Terrform, Datagog |
 | LLM | Dify |
-| Testing / Linting Tools | RSpec, Jest |
+| Testing / Linting Tools | RSpec |
 | CI/CD | GitHub Actions |
 | Version Control / Hosting & Collaboration | Git, GitHub |
 | Development Environment | Vscode, Docker, Docker Desktop, colima |
