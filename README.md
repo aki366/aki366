@@ -1,4 +1,14 @@
 ## Profile
+
+**[X](https://x.com/aki90935433)**
+
+**[Zenn](https://zenn.dev/aki366)**
+
+**[Qiita](https://qiita.com/aki366)**
+
+**[note](https://note.com/aki_366/)**
+
+
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=figma,javascript,html,css,ruby,rails,rspec,redia,mysql,dify,k8s,argo,datadog,aws,terraform,githubactions,git,github,vscode,docker" />
 
 | Category | Technology |
