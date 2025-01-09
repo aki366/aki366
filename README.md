@@ -2,6 +2,8 @@
 
 **[X](https://x.com/aki90935433)**
 
+**[Linkedin](https://www.linkedin.com/in/akihiro-okuda-039347344/)**
+
 **[Zenn](https://zenn.dev/aki366)**
 
 **[Qiita](https://qiita.com/aki366)**
