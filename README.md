@@ -1,6 +1,6 @@
 ## Profile
 
-**[X](https://x.com/aki90935433)**
+**[X](https://x.com/aki366_x)**
 
 **[Linkedin](https://www.linkedin.com/in/akihiro-okuda-039347344/)**
 
