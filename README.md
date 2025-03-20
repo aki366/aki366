@@ -17,7 +17,7 @@ I update my blog whenever I feel like it. Feel free to DM me!</br>
   <a href="https://github.com/aki366" target="_blank"><img alt="Github" src="https://d3prslcyrefztx.cloudfront.net/icons/github-150x150-20250320.png" width="100" height="100" /></a>
   <a href="https://x.com/aki366_x" target="_blank"><img alt="X" src="https://d3prslcyrefztx.cloudfront.net/icons/x-150x150-20250320.png" width="100" height="100" /></a>
   <a href="https://www.linkedin.com/in/akihiro-okuda-039347344/" target="_blank"><img alt="Medium" src="https://d3prslcyrefztx.cloudfront.net/icons/linkedin-150x150-20250320.png" width="100" height="100" /></a>
-  <a href="https://zenn.dev/aki366" target="_blank"><img alt="Zenn" src="https://d3prslcyrefztx.cloudfront.net/icons/zenn-20250320.svg" width="100" height="100" /></a>
+  <a href="https://zenn.dev/aki366" target="_blank"><img alt="Zenn" src="https://d3prslcyrefztx.cloudfront.net/icons/zenn-150x150-20250320.png" width="100" height="100" /></a>
   <a href="https://qiita.com/aki366" target="_blank"><img alt="Medium" src="https://d3prslcyrefztx.cloudfront.net/icons/qiita-300x300-20250320.png" width="100" height="100" hspace="10" /></a>
   <a href="https://note.com/aki_366" target="_blank"><img alt="Zenn" src="https://d3prslcyrefztx.cloudfront.net/icons/note-1477x1477-20250320.png" width="100" height="100" /></a>
 </p>
