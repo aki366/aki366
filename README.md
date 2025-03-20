@@ -1,17 +1,38 @@
-## Profile
+![](https://komarev.com/ghpvc/?username=aki366)
 
-**[X](https://x.com/aki366_x)**
+# Hey! Nice to see you.
 
-**[Linkedin](https://www.linkedin.com/in/akihiro-okuda-039347344/)**
+<p>
+I'm Akihiro Okuda, an infrastructure engineer from Hiroshima, Japan.</br>
 
-**[Zenn](https://zenn.dev/aki366)**
+<b>"My motto is: Living true to myself is the ultimate efficiency."</b></br>
+I update my blog whenever I feel like it. Feel free to DM me!</br>
 
-**[Qiita](https://qiita.com/aki366)**
+#K8s #AWS #Terraform #Dify #Ruby #Rails #Web #NoodleLover #SpicyFoodLover #PeoplePerson</br>
+</p>
 
-**[note](https://note.com/aki_366/)**
+## Where to find me
 
+<p>
+  <a href="https://github.com/aki366" target="_blank"><img alt="Github" src="https://d3prslcyrefztx.cloudfront.net/icons/ios17-github-150x150-20250320.svg" width="100" height="100" /></a>
+  <a href="https://x.com/aki366_x" target="_blank"><img alt="X" src="https://d3prslcyrefztx.cloudfront.net/icons/ios17-x-150x150-20250320.svg" width="100" height="100" /></a>
+  <a href="https://www.linkedin.com/in/akihiro-okuda-039347344/" target="_blank"><img alt="Medium" src="https://d3prslcyrefztx.cloudfront.net/icons/ios17-linkedin-150x150-20250320.svg" width="100" height="100" /></a>
+  <a href="https://zenn.dev/aki366" target="_blank"><img alt="Zenn" src="https://d3prslcyrefztx.cloudfront.net/icons/zenn-300x300-20250320.png" width="80" height="80" hspace="10" vspace="10" /></a>
+  <a href="https://qiita.com/aki366" target="_blank"><img alt="Medium" src="https://d3prslcyrefztx.cloudfront.net/icons/qiita-96x96-20250320.png" width="90" height="90" /></a>
+  <a href="https://note.com/aki_366" target="_blank"><img alt="Zenn" src="https://d3prslcyrefztx.cloudfront.net/icons/note-493x493-20250320.png" width="100" height="100" /></a>
+</p>
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=figma,javascript,html,css,ruby,rails,rspec,redia,mysql,dify,k8s,argo,datadog,aws,terraform,githubactions,git,github,vscode,docker" />
+<!-- <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=figma,javascript,html,css,ruby,rails,rspec,redia,mysql,dify,k8s,argo,datadog,aws,terraform,githubactions,git,github,vscode,docker" /> -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aki366&theme=vue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aki366&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aki366&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:lapras-card-->
+<p ><a href="https://lapras.com/public/aki366" target="_blank" rel="noopener noreferrer"><img alt="kawamataryo's scores on LAPRAS are as follows: Engineering: 3.53 out of 5.0, Business: 3.48 out of 5.0, Influence: 3.47 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.53&b=3.48&i=3.47&b1=%2523020E27&b2=%25230E5593&i1=%2523030E21&i2=%25231688BF&l=en" width="350" ></a></p>
+<!--END_SECTION:lapras-card-->
 
 | Category | Technology |
 | --- | --- |
@@ -26,29 +47,3 @@
 | Version Control / Hosting & Collaboration | Git, GitHub |
 | Development Environment | Vscode, Docker, Docker Desktop, colima |
 | Monitoring Tools　| Datadog, BigQuery, Sentry, Redash |
-
-## personal development
-### [Caian](https://github.com/aki366/caian-app#readme) : Monorepo
-  - Front-end: React
-  - Back-end: Rails
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aki366&theme=vue)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aki366&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aki366&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**aki366/aki366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
