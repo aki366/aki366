@@ -19,7 +19,7 @@ I update my blog whenever I feel like it. Feel free to DM me!</br>
   <a href="https://www.linkedin.com/in/akihiro-okuda-039347344/" target="_blank"><img alt="Medium" src="https://d3prslcyrefztx.cloudfront.net/icons/linkedin-150x150-20250320.png" width="100" height="100" /></a>
   <a href="https://note.com/aki_366" target="_blank"><img alt="Zenn" src="https://d3prslcyrefztx.cloudfront.net/icons/note-150x150-20250320−01.png" width="100" height="100" /></a>
   <a href="https://zenn.dev/aki366" target="_blank"><img alt="Zenn" src="https://d3prslcyrefztx.cloudfront.net/icons/zenn-150x150-20250320-02.png" width="100" height="100" /></a>
-  <a href="https://qiita.com/aki366" target="_blank"><img alt="Medium" src="https://d3prslcyrefztx.cloudfront.net/icons/qiita-150x150-20250320-01.png" width="100" height="100" hspace="10" /></a>
+  <a href="https://qiita.com/aki366" target="_blank"><img alt="Medium" src="https://d3prslcyrefztx.cloudfront.net/icons/qiita-150x150-20250320-01.png" width="100" height="100" /></a>
 </p>
 
 
