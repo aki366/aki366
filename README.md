@@ -46,3 +46,6 @@ I update my blog whenever I feel like it. Feel free to DM me!</br>
 | Version Control / Hosting & Collaboration | Git, GitHub |
 | Development Environment | Vscode, Docker, Docker Desktop, colima |
 | Monitoring Tools　| Datadog, BigQuery, Sentry, Redash |
+
+## Prototype
+- https://careerlog.aki366.com/
