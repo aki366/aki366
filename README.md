@@ -11,7 +11,7 @@ I update my blog whenever I feel like it. Feel free to DM me!</br>
 #K8s #AWS #Terraform #Dify #Ruby #Rails #Web #NoodleLover #SpicyFoodLover #PeoplePerson</br>
 </p>
 
-<img src="https://github.com/user-attachments/assets/95945206-b1d7-4a2f-ba5b-9d61aae540fe" width="200">
+<a href="https://my.prairie.cards/u/aki366="_blank"><img src="https://github.com/user-attachments/assets/95945206-b1d7-4a2f-ba5b-9d61aae540fe" width="200" /></a>
 
 ## Where to find me
 
