@@ -1,17 +1,18 @@
 ![](https://komarev.com/ghpvc/?username=aki366)
 
-## [Akihiro Okuda](https://aki366.com/)
+## [Akihiro Okuda](https://aki366.com/profile)
 
 # Hey! Nice to see you.
 
-I'm [Akihiro Okuda](https://aki366.com/), an infrastructure engineer from Hiroshima, Japan.</br>
+I'm [Akihiro Okuda](https://aki366.com/profile), an infrastructure engineer from Hiroshima, Japan.</br>
 
 <b>"My motto is: Living true to myself is the ultimate efficiency."</b></br>
 I update my blog whenever I feel like it. Feel free to DM me!</br>
 
 #K8s #AWS #Terraform #Dify #Ruby #Rails #Web #NoodleLover #SpicyFoodLover #PeoplePerson</br>
 
-<a href="https://my.prairie.cards/u/aki366" target="_blank"><img src="https://github.com/user-attachments/assets/95945206-b1d7-4a2f-ba5b-9d61aae540fe" width="200" /></a>
+<a href="https://my.prairie.cards/u/aki366" target="_blank"><img src="https://github.com/user-attachments/assets/95945206-b1d7-4a2f-ba5b-9d61aae540fe" width="200" /></a>  
+https://my.prairie.cards/u/aki366
 
 ## Where to find me
 
